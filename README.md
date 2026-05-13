@@ -5,7 +5,7 @@
 ![Op Amp](https://img.shields.io/badge/Circuit-LM358%20Op--Amp-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 📖 Overview
 
@@ -13,7 +13,7 @@ The **Smart Voice Classification System** is an Arduino GIGA R1 based embedded s
 
 The system combines analog electronics, signal conditioning, FFT processing, real-time waveform visualization, and embedded classification logic.
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## ✨ Project Features
 
@@ -29,7 +29,7 @@ The system combines analog electronics, signal conditioning, FFT processing, rea
 - Simulation/demo mode
 - Speaker/audio testing output
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 🛠 Hardware Used
 
@@ -43,7 +43,7 @@ The system combines analog electronics, signal conditioning, FFT processing, rea
 - Breadboard and jumper wires
 - LEDs for classification outputs
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 🔊 Signal Flow
 
@@ -58,7 +58,7 @@ Microphone
 → GIGA Display Output
 ```
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 🧠 Engineering Concepts Demonstrated
 
@@ -73,7 +73,7 @@ Microphone
 - Hardware debugging and validation
 - Analog-to-digital signal conversion
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 📂 Repository Structure
 
@@ -98,7 +98,7 @@ Smart-Voice-Classification-System/
 └── README.md
 ```
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## ⚙️ Development Stages
 
@@ -117,8 +117,7 @@ Real-time waveform visualization and classification display using the GIGA Displ
 ### Final System
 Integrated microphone input, op-amp circuit, filtering, FFT classification, display output, and demo mode.
 
----
-
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 ## 📊 MATLAB & Analysis
 
 MATLAB scripts were used for:
@@ -128,7 +127,7 @@ MATLAB scripts were used for:
 - Filter response testing
 - Signal behavior comparison
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 📷 Project Photos
 
@@ -141,13 +140,13 @@ MATLAB scripts were used for:
 ### GIGA Display Waveform Output
 ![Display Output](Images/display_output.jpg)
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 🎥 Demo Video
 
 [Watch Project Demo](Videos/system_demo.mp4)
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 🚀 Future Improvements
 
@@ -159,7 +158,7 @@ MATLAB scripts were used for:
 - Improve waveform scrolling and UI layout
 - Add more advanced audio feature extraction
 
----
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 ## 👨‍💻 Author
 
